@@ -1,2 +1,3 @@
 # Ignore the data folder and its subfolders
 data/
+checkpoints/generator_last.pt
